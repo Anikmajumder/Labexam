@@ -1,0 +1,17 @@
+<users>
+	<user>
+		<id>1</id>
+		<name>user</name>
+		<dept>SE</dept>
+	</user>
+	<user>
+		<id>2</id>
+		<name>admin</name>
+		<dept>CSE</dept>
+	</user>
+	<user>
+		<id>3</id>
+		<name>test</name>
+		<dept>CSSE</dept>
+	</user>
+</users>
